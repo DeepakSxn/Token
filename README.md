@@ -71,8 +71,6 @@ No modifications are necessary. You can copy the code directly into a new file w
 
 
 ### Authors
-Contributor Name:
-
 DeepakSxn
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
